@@ -1,0 +1,19 @@
+{
+  "name": "beyondthedev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallumS19/btd-discord-bot.git"
+  },
+  "author": "Callum Spiers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallumS19/btd-discord-bot/issues"
+  },
+  "homepage": "https://github.com/CallumS19/btd-discord-bot#readme"
+}
